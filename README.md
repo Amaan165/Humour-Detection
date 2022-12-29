@@ -4,7 +4,7 @@
 
 # Download this model (only for Word2Vec)
   [Click Here](https://www.kaggle.com/datasets/umbertogriffo/googles-trained-word2vec-model-in-python) to download Google's pre-trained Word2Vec Model.
-  Save it in the main 'static/model/' directory.
+  Save it in the main 'static/models/' directory.
 
 
 
