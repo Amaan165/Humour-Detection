@@ -5,3 +5,8 @@
 # Download this model (only for Word2Vec)
   [Click Here](https://www.kaggle.com/datasets/umbertogriffo/googles-trained-word2vec-model-in-python) to download Google's pre-trained Word2Vec Model.
   Save it in the main 'static/model/' directory.
+
+
+
+# Home Page
+  ![Home Page](https://github.com/Amaan165/Humour-Detection/blob/main/screenshots/homepage.png)
