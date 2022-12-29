@@ -8,6 +8,30 @@
 
 
 
-# Screenshots
+# Main Page
+
   Home Page
+
   ![Home Page](https://github.com/Amaan165/Humour-Detection/blob/main/screenshots/homepage.png)
+
+  Humour Detected
+
+  ![Humour](https://github.com/Amaan165/Humour-Detection/blob/main/screenshots/humour.png)
+
+  No Humour Detected
+
+  ![No Humour](https://github.com/Amaan165/Humour-Detection/blob/main/screenshots/nonhumour.png)
+
+# Analysis Page
+
+  Bag Of Words
+
+  ![Bag Of Words](https://github.com/Amaan165/Humour-Detection/blob/main/screenshots/bagofwords.png)
+
+  TF-IDF
+
+  ![TF-IDF](https://github.com/Amaan165/Humour-Detection/blob/main/screenshots/tfidf.png)
+
+  Word2Vec
+
+  ![Word2Vec](https://github.com/Amaan165/Humour-Detection/blob/main/screenshots/word2vec.png)
