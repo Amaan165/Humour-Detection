@@ -1,0 +1,234 @@
+/*
+body{
+    background: #ddd;
+}
+
+.profile-area{
+    padding: 80px 0;
+}
+
+.card{
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+    overflow: hidden;
+    border-radius: 15px;
+}
+
+.img1 img{
+    height: 200px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    width: 100%;
+}
+
+.img2 img{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+    z-index: 1;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 7px solid #fff;
+    margin-top: -80px;
+}
+
+.card:hover .img2 img{
+    border-color: darkcyan;
+    transition: .7s;
+
+}
+.main-text {
+    padding: 30px 0;
+    text-align: center;
+}
+.main-text h2{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 20px;
+    margin: 0 0 20px;
+}
+.main-text p{
+    font-size:16px;
+    padding:0 35px;
+}
+.socials{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.socials i{
+    font-size: 20px;
+    color: darkcyan;
+    padding: 0 10px;
+}
+
+*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: linear-gradient(to right, white,rgb(152, 152, 243));
+}
+
+/*select {*/
+/*    height: 2px;*/
+/*    width: 8px;*/
+/*}*/
+.border-primary:hover{
+    transition: 1s;
+    background: rgb(162, 162, 255);
+}
+
+.btn btn-primary {
+    height: 2em;
+    color: rgb(255, 255, 255);
+    background-color: white;
+}
+
+.fa-linkedin:before {
+    visibility: visible;
+    color: #0b0101;
+}
+
+.fa-linkedin:hover {
+    visibility: visible;
+    color: #0A66C2;
+}
+
+.border border-primary ms-1{
+    color: rgb(187, 187, 222);
+}
+
+.fa-github:before {
+    color: #0b0101;
+    visibility: visible;
+}
+
+.fa-github:hover {
+    visibility: visible;
+    color: #0A66C2;
+}
+
+.analysis{
+
+    text-align: center;
+    margin-top: 15px;
+}
+
+a:link{
+    color: azure;
+    text-decoration: none;
+}
+
+.nav-item{
+    align-items: center;
+}
+.title{
+    align-items: center;
+}
+.name{
+    font-size: 15px;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+    margin: 0 auto;
+    position: relative;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+
+
+
+.box {
+    width: 350px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #ffffff1a;
+    backdrop-filter: blur(20px);
+    padding: 1.5em;
+    border-radius: 25px;
+    border: 2px solid #ffffff30;
+    box-shadow: 0 0 30px #0000002a;
+    text-align: center;
+}
+
+.box h2 {
+    color: #0b0101;
+    text-transform: capitalize;
+    margin: 15px 0;
+}
+
+.box h2 span {
+    display: block;
+    font-size: 15px;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+
+.box p {
+    color: #05000090;
+    font-size: 14px;
+}
+
+.btn-area a {
+    text-decoration: none;
+    color: #262626;
+    background: rgba(255, 255, 255, 0.6);
+    display: inline-block;
+    padding: 8px 15px;
+    margin: 15px 5px;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+}
+
+.btn-area a.ex {
+    background: transparent;
+    color: #fff;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.profile-img img {
+    width: 100%;
+}
+
+.profile-img:hover{
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 8px rgba(100, 100, 255);
+    transition-timing-function: linear;
+    transition-duration: 0.1s;
+
+}
+
+.box:hover{
+    border: 20px;
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 8px rgb(100,100,255);
+    transition-timing-function: linear;
+    transition: 0.1s;
+}
+
+.buttonclass:hover{
+    box-shadow: 0 0 8px rgb(100,100,255);
+    transition-timing-function: linear;
+    transition: 0.1s;
+}
