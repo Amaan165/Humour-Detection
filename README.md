@@ -35,3 +35,8 @@
   Word2Vec
 
   ![Word2Vec](https://github.com/Amaan165/Humour-Detection/blob/main/screenshots/word2vec.png)
+
+
+# About Us
+
+  ![Our Team](https://github.com/Amaan165/Humour-Detection/blob/main/screenshots/aboutus.png)
