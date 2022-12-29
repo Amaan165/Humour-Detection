@@ -8,5 +8,6 @@
 
 
 
-# Home Page
+# Screenshots
+  Home Page
   ![Home Page](https://github.com/Amaan165/Humour-Detection/blob/main/screenshots/homepage.png)
